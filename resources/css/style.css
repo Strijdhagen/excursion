@@ -1,6 +1,7 @@
 * {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: black;
+  text-align: center;
 }
 
 
@@ -14,11 +15,9 @@ h1{
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
 
 #link{
   color:aquamarine;
-  text-align: center;
   font-size: 16px;
 }
